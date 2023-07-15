@@ -1,6 +1,6 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const ALCHEMY_API_KEY = '92084df1fafa48f8aebce1b1d71048f9';
-const MNEMONIC = 'donor prize march because explain that share damp convince derive method force';
+const ALCHEMY_API_KEY = '';
+const MNEMONIC = '';
 
 module.exports = {
   networks: {
